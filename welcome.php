@@ -86,19 +86,16 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Get your dream job today</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+               Our Al based auto profiling system will help you get the best job for you through
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bi bi-check-circle"></i>Advertising your skills to potential customers</li>
+              <li><i class="bi bi-check-circle"></i>Automatic job matching</li>
+              <li><i class="bi bi-check-circle"></i>Automated job information</li>
             </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            </p>
+            
 
           </div>
         </div>
@@ -106,36 +103,7 @@
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts section-bg">
-      <div class="container">
 
-        <div class="row counters">
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Students</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="64" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Courses</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Events</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Trainers</p>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Counts Section -->
 
     <!-- ======= Why Us Section ======= -->
     <section id="why-us" class="why-us">
@@ -144,10 +112,13 @@
         <div class="row">
           <div class="col-lg-4 d-flex align-items-stretch">
             <div class="content">
-              <h3>Why Choose Mentor?</h3>
+              <h3>Why Choose SkilHIve?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                   SkilHive is the smartest way to do away with under employment.
+                   through our Al based auto profiling system we will help you get the best job for you as well as 
+                   help you get the best people for your business.
+
+
               </p>
               <div class="text-center">
                 <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -159,23 +130,36 @@
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
-                    <h4>Corporis voluptates sit</h4>
-                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                    <i class="bx bx-lock"></i>
+                    <h4>Safe and Secure</h4>
+                    <p>
+                    Focus on your work knowing we help protect your data and privacy. 
+                    We’re here with 24/7 support if you need it.
+
+
+                    </p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Ullamco laboris ladore pan</h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                    <h4>
+                    No cost until you hire
+                    </h4>
+                    <p>
+                    Interview potential fits for your job, negotiate rates, and only pay for work you approve.
+
+                    </p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Labore consequatur</h4>
-                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                    <h4>Proof of Quality</h4>
+                    <p>
+                    Check any pro’s work samples, client reviews, and identity verification.
+
+                    </p>
                   </div>
                 </div>
               </div>
@@ -188,37 +172,53 @@
 
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
+        <!-- add heading -->
+        <div class="container" data-aos="fade-up">
+            <div class="section-title">
+                
+                <p>Browse By Skills</p>
+            </div>
+        </div>    
+
+
+        <!-- add heading -->
       <div class="container" data-aos="fade-up">
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-lg-3 col-md-4">
             <div class="icon-box">
               <i class="ri-store-line" style="color: #ffbb2c;"></i>
-              <h3><a href="">Lorem Ipsum</a></h3>
+              <h3><a href="">Development and IT</a></h3>
+              <!-- add rating -->
+              <!-- add rating -->
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
             <div class="icon-box">
               <i class="ri-bar-chart-box-line" style="color: #5578ff;"></i>
-              <h3><a href="">Dolor Sitema</a></h3>
+              <h3><a href="">Sales and Marketing</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-md-0">
             <div class="icon-box">
               <i class="ri-calendar-todo-line" style="color: #e80368;"></i>
-              <h3><a href="">Sed perspiciatis</a></h3>
+              <h3><a href="">Finance and Accounting</a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="ri-paint-brush-line" style="color: #e361ff;"></i>
-              <h3><a href="">Magni Dolores</a></h3>
+              <h3><a href="">
+                Engineering 
+              </a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-database-2-line" style="color: #47aeff;"></i>
-              <h3><a href="">Nemo Enim</a></h3>
+              <h3><a href="">
+                Customer Sales and Support
+              </a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
@@ -242,25 +242,34 @@
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-anchor-line" style="color: #b2904f;"></i>
-              <h3><a href="">Dirada Pack</a></h3>
+              <h3><a href="">
+                Writing and Translation
+
+              </a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-disc-line" style="color: #b20969;"></i>
-              <h3><a href="">Moton Ideal</a></h3>
+              <h3><a href="">
+                Admin Support
+              </a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-base-station-line" style="color: #ff5828;"></i>
-              <h3><a href="">Verdo Park</a></h3>
+              <h3><a href="">
+                Design and Creative
+              </a></h3>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 mt-4">
             <div class="icon-box">
               <i class="ri-fingerprint-line" style="color: #29cc61;"></i>
-              <h3><a href="">Flavor Nivelanda</a></h3>
+              <h3><a href="">
+                Legal
+              </a></h3>
             </div>
           </div>
         </div>
@@ -273,15 +282,15 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Courses</h2>
-          <p>Popular Courses</p>
+          <h2>Jobs</h2>
+          <p>Popular Jobs </p>
         </div>
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="course-item">
-              <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
+              <img src="./plugins/landing/assets/img/course-1.jpg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Web Development</h4>
@@ -292,7 +301,7 @@
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+                    <img src="./plugins/landing/assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
                     <span>Antonio</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
@@ -307,7 +316,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="course-item">
-              <img src="assets/img/course-2.jpg" class="img-fluid" alt="...">
+              <img src="./plugins/landing/assets/img/course-2.jpg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Marketing</h4>
@@ -318,7 +327,7 @@
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <img src="./plugins/landing/assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
                     <span>Lana</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
@@ -333,7 +342,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="course-item">
-              <img src="assets/img/course-3.jpg" class="img-fluid" alt="...">
+              <img src="./plugins/landing/assets/img/course-3.jpg" class="img-fluid" alt="...">
               <div class="course-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>Content</h4>
@@ -344,7 +353,7 @@
                 <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+                    <img src="./plugins/landing/assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
                     <span>Brandon</span>
                   </div>
                   <div class="trainer-rank d-flex align-items-center">
@@ -364,17 +373,27 @@
 
     <!-- ======= Trainers Section ======= -->
     <section id="trainers" class="trainers">
+        <!-- heading  with a heart emoji-->
+
+        <div class="container" data-aos="fade-up">
+            <div class="section-title">
+                
+                <p>People love SkilHive</p>
+            </div>
+        </div>
+        <!-- heading -->
       <div class="container" data-aos="fade-up">
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
+              <img src="./plugins/landing/assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Walter White</h4>
-                <span>Web Development</span>
+                <span>Web Developer</span>
                 <p>
-                  Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                   With timely payments , consistent growth and long term opportunities, 
+                   I can now focus more on work .
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -388,12 +407,13 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+              <img src="./plugins/landing/assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Sarah Jhinson</h4>
-                <span>Marketing</span>
+                <span>Marketer</span>
                 <p>
-                  Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                   What i love about SkilHive is that it is a platform helps you auto fill your profile and
+                     get you more clients through the platform.
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -407,12 +427,12 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
+              <img src="./plugins/landing/assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>William Anderson</h4>
-                <span>Content</span>
+                <span>Content Creator</span>
                 <p>
-                  Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                   I actually love the platform, it is easy to use and it is very easy to get clients and customers.
                 </p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -439,13 +459,13 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Mentor</h3>
+            <h3>SkilHive</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+            Kyaliwajala Naalya Road, 500M off Naalya Round About, Kampala
+               <br>
+
+              <strong>Phone:</strong> 256759983853<br>
+              <strong>Email:</strong> info@skilhive.com<br>
             </p>
           </div>
 
@@ -463,11 +483,11 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Auto Profiling</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Skilling</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Job Matching</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Advertising</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Training</a></li>
             </ul>
           </div>
 
@@ -487,14 +507,14 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Mentor</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>SkilHive</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
