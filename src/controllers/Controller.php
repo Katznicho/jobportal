@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Controllers;
+namespace App\Controllers;
 
 class Controller
 {

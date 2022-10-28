@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssentezo\Database\BluePrint;
+namespace App\Database\BluePrint;
 
 use mysqli;
-use Ssentezo\Database\BluePrint\Table;
+use App\Database\BluePrint\Table;
 
 class ManagerBlueprint extends BluePrint
 {

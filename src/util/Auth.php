@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssentezo\Util;
+namespace App\Util;
 
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Util\ActivityLogger;
+use App\Database\DbAccess;
+use App\Util\ActivityLogger;
 
 class Auth
 {

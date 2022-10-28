@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssentezo\Database\Models;
+namespace App\Database\Models;
 
 
-use Ssentezo\Database\Connection;
+use App\Database\Connection;
 
 class Model extends Connection
 {

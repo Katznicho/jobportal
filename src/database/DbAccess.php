@@ -1,10 +1,10 @@
 <?php
 
-namespace Ssentezo\Database;
+namespace App\Database;
 
 use Exception;
 use mysqli;
-use Ssentezo\Database\Connection;
+use App\Database\Connection;
 
 class DbAccess
 {

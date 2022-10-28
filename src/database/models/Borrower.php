@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Database\Models;
+namespace App\Database\Models;
 
 class Borrower extends Model
 {

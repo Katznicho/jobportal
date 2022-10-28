@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssentezo\DataTables;
+namespace App\DataTables;
 
-use Ssentezo\Util\AppUtil;
-use Ssentezo\Database\DbAccess;
+use App\Util\AppUtil;
+use App\Database\DbAccess;
 
 class DataTable
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ssentezo\Controllers;
+namespace App\Controllers;
 
-use Ssentezo\Company\Company;
+use App\Company\Company;
 
 class CompanyController
 {

@@ -1,14 +1,14 @@
 <?php
 
-namespace Ssentezo\Controllers;
+namespace App\Controllers;
 
-use Ssentezo\Billing\Billing;
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Transaction\SavingTransaction;
-use Ssentezo\Util\ActivityLogger;
-use Ssentezo\Util\AppUtil;
-use Ssentezo\Util\Logger;
-use Ssentezo\Util\UI\Alert;
+use App\Billing\Billing;
+use App\Database\DbAccess;
+use App\Transaction\SavingTransaction;
+use App\Util\ActivityLogger;
+use App\Util\AppUtil;
+use App\Util\Logger;
+use App\Util\UI\Alert;
 
 class SavingsController
 {

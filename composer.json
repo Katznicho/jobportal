@@ -1,18 +1,24 @@
 {
-  "name": "almasaeed2010/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4",
+  "name": "codelords/jobportal",
+  "description": "A web-based job portal application",
   "homepage": "https://adminlte.io/",
   "keywords": [
-    "css",
+    "jobs",
     "js",
-    "less",
-    "responsive",
-    "back-end",
-    "template",
-    "theme",
-    "web",
-    "admin"
+    "php",
+    "employers"
   ],
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.17",
+    "mashape/unirest-php": "^3.0",
+    "pear/http_request2": "^2.5",
+    "php": ">=7.0",
+    "symfony/console": "^6.1",
+    "phpmailer/phpmailer": "^6.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  },
   "authors": [
     {
       "name": "Colorlib"

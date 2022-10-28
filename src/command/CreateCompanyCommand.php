@@ -1,14 +1,14 @@
 <?php
 
-namespace Ssentezo\Command;
+namespace App\Command;
 
 use Exception;
-use Ssentezo\Company\Company;
-use Ssentezo\Database\BluePrint\BluePrint;
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Mailer\MyMail;
-use Ssentezo\Util\Auth;
-use Ssentezo\Util\Logger;
+use App\Company\Company;
+use App\Database\BluePrint\BluePrint;
+use App\Database\DbAccess;
+use App\Mailer\MyMail;
+use App\Util\Auth;
+use App\Util\Logger;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

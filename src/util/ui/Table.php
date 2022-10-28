@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Util\UI;
+namespace App\Util\UI;
 
 class Table extends UI
 {

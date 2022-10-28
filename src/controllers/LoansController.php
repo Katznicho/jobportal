@@ -1,9 +1,9 @@
 <?php
 
-namespace Ssentezo\Controllers;
+namespace App\Controllers;
 
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Util\AppUtil;
+use App\Database\DbAccess;
+use App\Util\AppUtil;
 
 class LoansController
 {

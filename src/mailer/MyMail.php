@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Mailer;
+namespace App\Mailer;
 
 use PHPMailer\PHPMailer\PHPMailer;
 

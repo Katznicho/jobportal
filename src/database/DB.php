@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Database;
+namespace App\Database;
 
 use mysqli;
 

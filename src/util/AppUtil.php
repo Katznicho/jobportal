@@ -1,11 +1,11 @@
 <?php
 
-namespace Ssentezo\Util;
+namespace App\Util;
 
-use Ssentezo\Loans\Loan;
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Loans\AftermaturityPenalty;
-use Ssentezo\Loans\SchedulePenalty;
+use App\Loans\Loan;
+use App\Database\DbAccess;
+use App\Loans\AftermaturityPenalty;
+use App\Loans\SchedulePenalty;
 
 class AppUtil
 {

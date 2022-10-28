@@ -1,10 +1,10 @@
 <?php
 
-namespace Ssentezo\Database\BluePrint;
+namespace App\Database\BluePrint;
 
 use Exception;
 use mysqli;
-use Ssentezo\Util\Logger;
+use App\Util\Logger;
 
 class BluePrint
 {

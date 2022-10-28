@@ -1,6 +1,6 @@
 <?php
 
-use Ssentezo\Billing\Billing;
+use App\Billing\Billing;
 
 class HelperFunctions
 {

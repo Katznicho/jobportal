@@ -1,5 +1,5 @@
 <?php
-namespace Ssentezo\Command;
+namespace App\Command;
 
 class LoginCommand{
     

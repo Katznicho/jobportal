@@ -1,8 +1,8 @@
 <?php
 
-namespace Ssentezo\Util;
+namespace App\Util;
 
-use Ssentezo\Database\DbAccess;
+use App\Database\DbAccess;
 
 class Feature
 {

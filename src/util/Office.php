@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Util;
+namespace App\Util;
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 

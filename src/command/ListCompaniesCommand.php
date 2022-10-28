@@ -1,11 +1,11 @@
 <?php
 
-namespace Ssentezo\Command;
+namespace App\Command;
 
 use Exception;
 
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Util\Logger;
+use App\Database\DbAccess;
+use App\Util\Logger;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

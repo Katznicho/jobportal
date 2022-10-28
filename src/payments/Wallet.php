@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Payments;
+namespace App\Payments;
 
 class Wallet
 {

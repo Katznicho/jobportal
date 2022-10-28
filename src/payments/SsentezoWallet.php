@@ -1,12 +1,12 @@
 <?php
 
-namespace Ssentezo\Payments;
+namespace App\Payments;
 
 use DbAcess;
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Payments\Wallet;
-use Ssentezo\Util\ActivityLogger;
-use Ssentezo\Util\Logger;
+use App\Database\DbAccess;
+use App\Payments\Wallet;
+use App\Util\ActivityLogger;
+use App\Util\Logger;
 use Unirest\Request;
 use Unirest\Request\Body;
 //import the class that will be used to make the request

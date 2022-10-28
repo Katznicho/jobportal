@@ -1,6 +1,6 @@
 <?php
 
-namespace Ssentezo\Database\BluePrint;
+namespace App\Database\BluePrint;
 
 class View
 {

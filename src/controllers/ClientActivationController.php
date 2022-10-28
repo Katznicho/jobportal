@@ -1,15 +1,15 @@
 <?php
 
-namespace Ssentezo\Controllers;
+namespace App\Controllers;
 
 use ClientActivation;
-use Ssentezo\Mailer\MyMail;
-use Ssentezo\Clients\Activators\MobileActivator;
-use Ssentezo\Clients\Activators\USSDActivator;
-use Ssentezo\Clients\Activators\WebActivator;
-use Ssentezo\Database\DbAccess;
-use Ssentezo\Util\ActivityLogger;
-use Ssentezo\Util\AppUtil;
+use App\Mailer\MyMail;
+use App\Clients\Activators\MobileActivator;
+use App\Clients\Activators\USSDActivator;
+use App\Clients\Activators\WebActivator;
+use App\Database\DbAccess;
+use App\Util\ActivityLogger;
+use App\Util\AppUtil;
 
 class ClientActivationController
 {

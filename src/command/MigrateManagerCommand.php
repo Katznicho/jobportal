@@ -1,10 +1,10 @@
 <?php
 
-namespace Ssentezo\Command;
+namespace App\Command;
 
 use Exception;
 use mysqli;
-use Ssentezo\Database\BluePrint\ManagerBlueprint;
+use App\Database\BluePrint\ManagerBlueprint;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
