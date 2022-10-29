@@ -83,7 +83,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="./plugins/landing/assets/img/women.webp" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>Get your dream job today</h3>
@@ -94,6 +94,8 @@
               <li><i class="bi bi-check-circle"></i>Advertising your skills to potential customers</li>
               <li><i class="bi bi-check-circle"></i>Automatic job matching</li>
               <li><i class="bi bi-check-circle"></i>Automated job information</li>
+              <li><i class="bi bi-check-circle"></i>Automated Profiling</li>
+              <li><i class="bi bi-check-circle"></i>Free Trainings</li>
             </ul>
             
 
